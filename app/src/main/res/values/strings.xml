@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="gjoueur">Gestion Joueur</string>
+    <string name="gactivite">Gestion Activité</string>
+    <string name="exit">Quitter</string>
+    <string name="addcancel">Ajout Annuler</string>
+</resources>
